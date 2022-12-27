@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently searching my first job
 - 🌱 I’m currently learning Machine Learning and improving my skils
 - 📫 How to reach me: brunojaciel2012@gmail.com
-- ⚡ Fun fact: There is a cup of coffee? lol
+- ⚡ Fun fact: Is there a cup of coffee? lol
 
 <div align="center">
 <a href="https://github.com/brunojaciel">
