@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently searching my first job
-- 🌱 I’m currently learning Machine Learning and improving my skils
+- 🌱 I’m currently learning Machine Learning and improving my skills
 - 📫 How to reach me: brunojaciel2012@gmail.com
 - ⚡ Fun fact: Is there a cup of coffee? lol
 
