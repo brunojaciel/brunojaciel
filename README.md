@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at Clube Candeias
-- 🌱 I’m currently learning Machine Learning and improving my skills
-- 📫 How to reach me: brunojaciel2012@gmail.com or bruno.mello@clubecandeias.com
+- 🔭 I’m currently working at WEG
+- 🌱 I’m currently learning Embedded systems and improving my skills
+- 📫 How to reach me: brunojaciel2012@gmail.com or e-brunomelo@weg.net
 - ⚡ Fun fact: Is there a cup of coffee? lol
 
 <div align="center">
